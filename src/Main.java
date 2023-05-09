@@ -6,11 +6,12 @@ public class Main {
         //1.пройти по массиву, вывести все элементы в прямом и в обратном порядке
        /* double[] step1 = new double[scanner.nextInt()];
 
+        System.out.println("Массив в прямом порядке");
         for (int i = 0; i < step1.length; i++) {
             step1[i] = Math.random();
             System.out.println(step1[i] + " ");
         }
-
+            System.out.println("Массив в обратном порядке");
             for (int j = step1.length - 1; j >= 0; j--) {
                 System.out.println(step1[j] + " ");
             }*/
